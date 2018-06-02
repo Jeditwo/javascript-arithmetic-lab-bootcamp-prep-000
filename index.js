@@ -18,3 +18,7 @@ function divide(a, b) {
 function inc(n) {
   return(inc(n))
 }
+
+function dec(n) {
+  return(dec(n))
+}
