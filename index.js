@@ -19,6 +19,7 @@ function inc(n) {
   return(inc(n))
 }
 
+//ignore this
 function dec(n) {
   return(dec(n))
 }
