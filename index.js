@@ -24,4 +24,6 @@ function dec(n) {
   return(n -= 1)
 }
 
-makeInt
+function makeInt(n) {
+  
+}
